@@ -1,0 +1,8 @@
+Training set: 2010-01-01 00:00:00 -TO- 2023-08-06 23:00:00
+Testing set: 2023-08-22 00:00:00 -TO- 2023-09-05 23:00:00
+X_encoder_train tensor size: (118969, 180, 15) 
+X_decoder_train tensor size: (118969, 36, 14) 
+y_train tensor size: (118969, 36, 1)
+X_encoder_test tensor size: (145, 180, 15) 
+X_decoder_test tensor size: (145, 36, 14) 
+y_test tensor size: (145, 36, 1)
