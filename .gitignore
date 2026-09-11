@@ -141,3 +141,6 @@ __marimo__/
 
 # MacOS
 .DS_Store
+
+#numpy data
+*.npz
