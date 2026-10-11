@@ -7,3 +7,6 @@ tensorflow==2.15.1
 keras==2.15.0
 matplotlib>=3.3.0
 plotly>=5.0.0
+openpyxl
+kaleido>=1.0.0
+tqdm
